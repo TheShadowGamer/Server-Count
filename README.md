@@ -1,2 +1,2 @@
-# server count
- Adds a command to show you how many servers you are in.
+# Server Count
+ Adds a powercord command to show you how many servers you are in.
