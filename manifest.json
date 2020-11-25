@@ -1,0 +1,7 @@
+{
+	"name": "Server Count",
+	"description": "Adds a command to show you how many servers you are in.",
+	"author": "TheShadowGamer#7931",
+	"version": "1.0.0",
+	"license": "MIT"
+}
